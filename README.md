@@ -1,6 +1,5 @@
 # Graduation-project
 
-![Uploading image.png…]()
 
 ---
 
