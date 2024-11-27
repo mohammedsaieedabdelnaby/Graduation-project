@@ -1,6 +1,5 @@
 # Graduation-project
-![Uploading Screenshot 2024-11-27 224059.png…]()
-
+![Screenshot 2024-11-27 224059](https://github.com/user-attachments/assets/8c585515-4715-475c-aabb-ef4debd17905)
 ---
 
 ## Automated Content Generation System
